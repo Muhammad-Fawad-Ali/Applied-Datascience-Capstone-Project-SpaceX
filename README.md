@@ -1,4 +1,4 @@
-<img src="https://github.com/Muhammad-Fawad-Ali/Applied-Datascience-Capstone-Project-SpaceX/Title.jpg">
+<img src="https://github.com/Muhammad-Fawad-Ali/Applied-Datascience-Capstone-Project-SpaceX/main/Title.jpg">
 
 ## Introduction
 
